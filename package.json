@@ -10,7 +10,7 @@
     "dependencies": {
         "q": "1.x.x",
         "lodash": "3.x.x || 2.4.x",
-        "ctags": "atom/node-ctags@0.12.0",
+        "ctags": "atom/node-ctags",
         "stringify": "3.1.0"
     },
     "browserify": {
